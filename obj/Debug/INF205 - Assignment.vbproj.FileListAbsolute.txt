@@ -1,0 +1,37 @@
+C:\Users\MyPC\AppData\Local\Temporary Projects\INF205 - Assignment\bin\Debug\INF205 - Assignment.exe.config
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\bin\Debug\INF205 - Assignment.exe.config
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\bin\Debug\INF205 - Assignment.exe
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\bin\Debug\INF205 - Assignment.pdb
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\bin\Debug\INF205 - Assignment.xml
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_Login.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.Resources.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205 - Assignment.vbproj.GenerateResource.Cache
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205 - Assignment.exe
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205 - Assignment.xml
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205 - Assignment.pdb
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_Main.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_Loading.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_QLSP.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_QLLSP.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_AddStaffInfo.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_QLNV.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\bin\Debug\INF205 - Assignment.exe.config
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205 - Assignment.exe
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205 - Assignment.xml
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205 - Assignment.pdb
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\bin\Debug\INF205 - Assignment.exe.manifest
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\bin\Debug\INF205 - Assignment.application
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\bin\Debug\INF205 - Assignment.exe
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\bin\Debug\INF205 - Assignment.pdb
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\bin\Debug\INF205 - Assignment.xml
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_AddStaffInfo.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_Loading.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_Login.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_Main.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_QLLSP.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_QLSP.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.frm_QLNV.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205___Assignment.Resources.resources
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205 - Assignment.vbproj.GenerateResource.Cache
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205 - Assignment.exe.manifest
+F:\Dropbox\Summer\INF205 - Dien Toan Dam May\Assignment\INF205_Honglxps02728_Assignment\Honglxps02728_INF205_Assignment\Project\INF205 - Assignment\INF205 - Assignment\obj\Debug\INF205 - Assignment.application

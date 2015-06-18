@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D108771D-7EB9-4FFF-BB5E-B5B5DC2042E4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>INF205_Asm.My.MyApplication</StartupObject>
+    <RootNamespace>INF205_Asm</RootNamespace>
+    <AssemblyName>INF205_Asm</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\MyPC\Desktop\Passio Coffee\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>INF205_Asm.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>INF205_Asm.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>FEE574865E49AD1F2941D4933B9806E96D5D5447</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>INF205 - Assignment_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common.vb" />
+    <Compile Include="frm_AddStaffInfo.Designer.vb">
+      <DependentUpon>frm_AddStaffInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_AddStaffInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ChangePW.Designer.vb">
+      <DependentUpon>frm_ChangePW.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ChangePW.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Loading.Designer.vb">
+      <DependentUpon>frm_Loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Login.Designer.vb">
+      <DependentUpon>frm_Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Main.Designer.vb">
+      <DependentUpon>frm_Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLHD.Designer.vb">
+      <DependentUpon>frm_QLHD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLHD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLKH.Designer.vb">
+      <DependentUpon>frm_QLKH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLKH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLLSP.Designer.vb">
+      <DependentUpon>frm_QLLSP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLLSP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLSP.Designer.vb">
+      <DependentUpon>frm_QLSP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLSP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLNV.Designer.vb">
+      <DependentUpon>frm_QLNV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLNV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_VendorDetail.Designer.vb">
+      <DependentUpon>frm_VendorDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_VendorDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frm_AddStaffInfo.resx">
+      <DependentUpon>frm_AddStaffInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ChangePW.resx">
+      <DependentUpon>frm_ChangePW.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Loading.resx">
+      <DependentUpon>frm_Loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Login.resx">
+      <DependentUpon>frm_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Main.resx">
+      <DependentUpon>frm_Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLHD.resx">
+      <DependentUpon>frm_QLHD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLKH.resx">
+      <DependentUpon>frm_QLKH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLLSP.resx">
+      <DependentUpon>frm_QLLSP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLSP.resx">
+      <DependentUpon>frm_QLSP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLNV.resx">
+      <DependentUpon>frm_QLNV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_VendorDetail.resx">
+      <DependentUpon>frm_VendorDetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="INF205_Assignment_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passio1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ql_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading_bg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading_bg2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <None Include="Resources\form-icon.png" />
+    <None Include="Resources\join-renew-icon-2x.png" />
+    <None Include="Resources\customers-icon1.png" />
+    <None Include="Resources\password-manager_1.png" />
+    <None Include="Resources\nv_passio.png" />
+    <None Include="Resources\nv_ps.png" />
+    <None Include="Resources\nv_ps.jpg" />
+    <None Include="Resources\passio3.JPG" />
+    <None Include="Resources\11146238_1005949092763449_7544141485943768837_n.jpg" />
+    <None Include="Resources\ps.jpg" />
+    <None Include="Resources\passio2.JPG" />
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
